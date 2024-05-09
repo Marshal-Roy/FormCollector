@@ -1,0 +1,32 @@
+<div class="table">
+    <div class="table_header">
+        <h1>Dashboard</h1>
+        <div class="header_fixed">
+            <table>
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Name</th>
+                        <th>Documents Required</th>
+                        <th>Deadline</th>
+                        <th>Link</th>
+                        <th>Update</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let form of forms">
+                        <td>1</td>
+                        <td>{{form.name}}</td>
+                        <td>{{form.documents}}</td>
+                        <td>{{form.deadline}}</td>
+                        <td><a href="{{form.link}}">Click here</a></td>
+                        <td><button routerLink="/update/{{form.id}}">Update</button></td>
+                        <td><button type="button" (click)="deleteInfo(form.id)">Delete</button></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+</div>

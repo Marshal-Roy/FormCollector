@@ -1,0 +1,19 @@
+<div *ngIf="form">
+    <h2>{{form.name}}</h2>
+    <div>
+        Name:
+        <input [(ngModel)]="form.name" placeholder="Name">
+    </div>
+    <div>
+        Documents:
+        <input [(ngModel)]="form.documents" placeholder="Documents">
+    </div>
+    <div>
+        Deadline:
+        <input [(ngModel)]="form.deadline" placeholder="Deadline">
+    </div>
+    <div>
+        Link:
+        <input [(ngModel)]="form.link" placeholder="Link">
+    </div>
+</div>

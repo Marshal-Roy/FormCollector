@@ -1,0 +1,29 @@
+<div class="container" id="container">
+    <div class="form-container sign-up">
+        <form (ngSubmit)="updateInformation()">
+            <div *ngIf="formData">
+                <h1>Updade Record</h1>
+                
+                    <label>Name</label>
+                    <input type="text" [(ngModel)]="formData.name" name="name">
+                
+                
+                    <label>Documets</label>
+                    <input type="text" [(ngModel)]="formData.documents" name="documents">
+                
+                
+                    <label>Deadline</label>
+                    <input type="text" [(ngModel)]="formData.deadline" name="deadline">
+                
+                
+                    <label>Link</label>
+                    <input type="text" [(ngModel)]="formData.link" name="link">
+                
+               
+                    <button type="submit" >Update</button>
+                
+            </div>
+        </form>
+   </div>
+   
+</div>

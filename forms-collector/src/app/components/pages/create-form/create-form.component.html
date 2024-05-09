@@ -1,0 +1,25 @@
+<div class="container" id="container">
+    <div class="form-container sign-up">
+        <form #form="ngForm" (ngSubmit)="addInformation()">
+            <div>
+            <h1>Create New Record</h1>
+            
+                <label>Name:</label>
+                <input type="text" id="name" name="name" [(ngModel)]="addInfo.name">
+            
+            
+                <label>Documets</label>
+                <input type="text" id="documents" name="documents" [(ngModel)]="addInfo.documents">
+           
+            
+                <label>Deadline</label>
+                <input type="text" id="deadline" name="deadline" [(ngModel)]="addInfo.deadline">
+            
+            
+                <label>Link</label>
+                <input type="text" id="link" name="link" [(ngModel)]="addInfo.link">
+                <button type="submit" >Save</button>
+            </div>
+        </form>
+    </div>
+</div>
