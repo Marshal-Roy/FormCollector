@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Form-collector\\FormCollectorApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\controllers\\formsinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\controllers\\formsinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\controllers\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\controllers\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\formcollectorapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\formcollectorapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\models\\formscollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\models\\formscollectordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\models\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|g:\\form-collector\\formcollectorapi\\formcollectorapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AC911A-FB7D-495F-B7DE-EBA615A5FAAE}|FormCollectorApi\\FormCollectorApi.csproj|solutionrelative:formcollectorapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1204970601:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Controllers\\LoginController.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "FormCollectorApi\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T06:21:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Controllers\\RegistrationController.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "FormCollectorApi\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T05:34:34.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\Users.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Controllers\\Users.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\Users.cs",
+              "RelativeToolTip": "FormCollectorApi\\Controllers\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:34:22.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "formsInfoController.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\formsInfoController.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Controllers\\formsInfoController.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Controllers\\formsInfoController.cs",
+              "RelativeToolTip": "FormCollectorApi\\Controllers\\formsInfoController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T16:00:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Program.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Program.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Program.cs",
+              "RelativeToolTip": "FormCollectorApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:11:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FormCollectorApi\\appsettings.json",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\appsettings.json",
+              "RelativeToolTip": "FormCollectorApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T17:52:14.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCollectorApi",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\FormCollectorApi.csproj",
+              "RelativeDocumentMoniker": "FormCollectorApi\\FormCollectorApi.csproj",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\FormCollectorApi.csproj",
+              "RelativeToolTip": "FormCollectorApi\\FormCollectorApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T15:54:47.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormsCollectorDbContext.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Models\\FormsCollectorDbContext.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Models\\FormsCollectorDbContext.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Models\\FormsCollectorDbContext.cs",
+              "RelativeToolTip": "FormCollectorApi\\Models\\FormsCollectorDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:58:17.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Data\\DataContext.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Data\\DataContext.cs",
+              "RelativeToolTip": "FormCollectorApi\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T05:08:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Information.cs",
+              "DocumentMoniker": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Models\\Information.cs",
+              "RelativeDocumentMoniker": "FormCollectorApi\\Models\\Information.cs",
+              "ToolTip": "G:\\Form-collector\\FormCollectorApi\\FormCollectorApi\\Models\\Information.cs",
+              "RelativeToolTip": "FormCollectorApi\\Models\\Information.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T04:44:21.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@FormCollectorApi_HostAddress = http://localhost:5196
+
+GET {{FormCollectorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
